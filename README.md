@@ -1,2 +1,3 @@
 # zero_git
-A practical implementation of the ZeroWeb course
+##head line 2
+A practical **implementation** of the ZeroWeb course
